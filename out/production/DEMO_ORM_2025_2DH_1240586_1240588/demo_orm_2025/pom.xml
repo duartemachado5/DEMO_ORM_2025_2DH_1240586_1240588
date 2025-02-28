@@ -8,9 +8,6 @@
     <artifactId>demo_orm_2025</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <modules>
-        <module>isep.eapli.demo_orm</module>
-    </modules>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
